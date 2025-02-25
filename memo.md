@@ -7,9 +7,7 @@
 
 ### 最適性理論とのアナロジー
 
-- 言語学には最適性理論（OT）という理論がある
-  - [Wikipedia](https://ja.wikipedia.org/wiki/%E6%9C%80%E9%81%A9%E6%80%A7%E7%90%86%E8%AB%96)
-  - [ゆる言語学ラジオ](https://youtu.be/EsyYaoSHXvQ?si=jpxKRK6kqld42qJh)
+- 言語学には最適性理論（OT）という理論がある（[Wikipedia](https://ja.wikipedia.org/wiki/%E6%9C%80%E9%81%A9%E6%80%A7%E7%90%86%E8%AB%96), [ゆる言語学ラジオ](https://youtu.be/EsyYaoSHXvQ?si=jpxKRK6kqld42qJh)）
   - 言語にまつわる現象を、複数の制約とその優先順位の並び替えで説明する理論（だと筆者は思っている）
 - 乱獲における最適な行動の選択（≒評価関数の設計）も、OTと同様、制約の並び替えとして捉えられるかもしれない
 
