@@ -1,4 +1,4 @@
-# Overfishing-Houndbook
+# overfishing-houndbook
 
 ## これは何
 
@@ -7,4 +7,4 @@
 
 ## 余談
 
-- "Houndbook"は"Hound"（猟犬）と"Handbook"（ハンドブック）を組み合わせて作ったかばん語です
+- "houndbook"は"hound"（猟犬）と"handbook"（ハンドブック）を組み合わせて作ったかばん語です
